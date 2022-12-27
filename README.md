@@ -1,7 +1,6 @@
 # dotfiles
 
-hi ! 
-here is all my config files from pimped tool I use daily
+Hi ! Here are all my configuration files for the enhanced tools I use daily.
 
 ### neovim 
 
